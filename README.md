@@ -12,8 +12,7 @@ requirement: library networkx dan matplotlib
 
 ### Kruskal
 Untuk run bisa dilakukan dengan cara mengetik: 
-```python "kruskal.py"``` pada terminal.
-requirement: library ```networkx``` dan ```matplotlib```
+```python "kruskal.py"``` pada terminal.  requirement: library ```networkx``` dan ```matplotlib```
 
 ## Graph Traversal
 ### CPP

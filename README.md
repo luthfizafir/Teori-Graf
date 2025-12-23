@@ -12,7 +12,7 @@ requirement: library networkx dan matplotlib
 
 ### Kruskal
 Untuk run bisa dilakukan dengan cara mengetik: 
-```python "kruskal.py"``` pada terminal.  requirement: library ```networkx``` dan ```matplotlib```
+```python "kruskal.py"``` pada terminal.\ requirement: library ```networkx``` dan ```matplotlib```
 
 ## Graph Traversal
 ### CPP
@@ -21,8 +21,7 @@ Untuk run bisa dilakukan dengan cara mengetik:
 
 ### TSP
 Untuk run bisa dilakukan dengan cara mengetik: 
-```python tsp_starter.py``` di folder TSP pada terminal.
-requirement: diperlukan file ```small.csv``` atau dataset serupa dari https://github.com/acu192/fun-tsp-challenge/tree/master/data
+```python tsp_starter.py``` di folder TSP pada terminal.\ requirement: diperlukan file ```small.csv``` atau dataset serupa dari https://github.com/acu192/fun-tsp-challenge/tree/master/data
 
 ## Matching & Color
 ### Hungarian
